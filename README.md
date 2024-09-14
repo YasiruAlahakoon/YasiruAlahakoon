@@ -23,6 +23,8 @@
 <a href="https://www.hackerrank.com/yasiru alahakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yasiru alahakoon" height="30" width="40" /></a>
 </p>
 
+
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -38,30 +40,31 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
   <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Altium_Designer_Logo.svg/2048px-Altium_Designer_Logo.svg.png" alt="altium" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Altium_Logo.png" alt="altium" width="40" height="40"/>
   </a> 
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/SolidWorks_Logo.svg/1200px-SolidWorks_Logo.svg.png" alt="solidworks" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" alt="solidworks" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Verilog_logo.svg/1024px-Verilog_logo.svg.png" alt="verilog" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Verilog_logo.svg" alt="verilog" width="40" height="40"/>
   </a> 
   <a href="https://en.wikipedia.org/wiki/Field-programmable_gate_array" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/FPGA_Silicon-Chip_Programmable-Logic_Gate-Array.png" alt="fpga" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/FPGA_icon.svg" alt="fpga" width="40" height="40"/>
   </a> 
   <a href="https://en.wikipedia.org/wiki/SystemVerilog" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SystemVerilog_logo.svg/1024px-SystemVerilog_logo.svg.png" alt="system verilog" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Systemverilog_logo.svg" alt="system verilog" width="40" height="40"/>
   </a> 
   <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer">
-    <img src="https://www.st.com/content/ccc/resource/sales_and_marketing/promotional_material/product_flyer/group0/79/26/66/1d/ea/2e/47/8a/STM32CubeIDE_Software_Roadshow/files/STM32CubeIDE-Logo-Roadshow.jpg/_jcr_content/translations/en.STM32CubeIDE-Logo-Roadshow.jpg" alt="stm cube ide" width="40" height="40"/>
+    <img src="https://www.st.com/content/ccc/resource/technical/document/technical_article/group0/2c/46/fd/7b/1c/7e/4b/b5/STM32CubeIDE_overview/files/stm32cubeide_overview.png" alt="stm cube ide" width="40" height="40"/>
   </a>
   <a href="https://www.multisim.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/NI_Multisim_logo.png" alt="multisim" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/NI_Multisim_logo.png/220px-NI_Multisim_logo.png" alt="multisim" width="40" height="40"/>
   </a>
   <a href="https://nodered.org/" target="_blank" rel="noreferrer">
-    <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" alt="node-red" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Nodered_icon.png" alt="node-red" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirualahakoon&show_icons=true&locale=en&layout=compact" alt="yasirualahakoon" /></p>
