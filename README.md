@@ -26,10 +26,9 @@
 
 <h3 align="left">Software & Tools:</h3>
 <p align="left"> 
-<a href="https://www.altium.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Altium_Designer_Logo.svg" alt="altium" width="40" height="40"/> </a>
-<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/0/0e/SolidWorks_Logo.svg" alt="solidworks" width="40" height="40"/> </a>
+
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Simulink_Logo.png" alt="simulink" width="40" height="40"/> </a>
+
 <a href="https://www.node-red.org/" target="_blank" rel="noreferrer"> <img src="https://nodered.org/about/resources/media/node-red-icon.svg" alt="node-red" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
@@ -47,7 +46,6 @@
 <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/4151/4151531.png" alt="statistics" width="40" height="40"/> </a>
 </p>
-target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirualahakoon&show_icons=true&locale=en&layout=compact" alt="yasirualahakoon" /></p>
 
