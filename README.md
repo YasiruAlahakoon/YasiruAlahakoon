@@ -62,7 +62,7 @@ quality standards.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
 </p>
 
-- Frontend development with React
+- Frontend development with React js, Figma, CSS
 - Backend services using Spring Boot, FastAPI, and Flask
 - RESTful API design and validation basics
 - Clean architecture and modular system design
