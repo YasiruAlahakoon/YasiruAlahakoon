@@ -17,10 +17,10 @@ quality standards.
 
 - **AI & Machine Learning**
 - **Computer Vision**
+- **Full-Stack Software Development**
 - **Data Science & Data Engineering**
-- **NLP & LLM-based Systems**
-- **Software Development**
 - **Quality Testing & Validation**
+- **NLP & LLM-based Systems**
 - **DevOps Fundamentals**
 - **Cloud & IoT Security (Foundational)**
 
